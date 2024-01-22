@@ -1,11 +1,9 @@
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=DA5C57&center=true&width=435&lines=Bonjour,+je+m'appelle+Alexis+FIOLLEAU+!;I'm+a+junior+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=DA5C57&center=true&width=435&lines=+HELLO!;My+name+is+Alexis+FIOLLEAU+!;I'm+a+junior+developer" alt="Typing SVG" /></a>
 </div>
 
 <br />
 
- ![Potowai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potowai)
- 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +41,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Potowai/pokedex-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Potowai&repo=pokedex-python&theme=react&title_color=DA5C57&hide_border=true&icon_color=FFF&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
   <a href="https://github.com/Potowai?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
