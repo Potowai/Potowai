@@ -1,6 +1,4 @@
-<div align=center>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=DA5C57&center=true&width=435&lines=+HELLO!;My+name+is+Alexis+FIOLLEAU+!;I'm+a+junior+developer" alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=HELLO!;My+name+is+Alexis.;I'm+a+Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br />
 
