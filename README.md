@@ -30,10 +30,6 @@
 
 <br><br>
 
-  <a href="https://www.linkedin.com/in/alexis-fiolleau-b37181221/"><img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/></a>
-  &nbsp;
-
-
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
