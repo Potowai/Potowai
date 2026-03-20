@@ -168,15 +168,16 @@ interests:
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 &nbsp;Contribution Graph
+## 🏆 Notable Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Potowai/Potowai/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Potowai/Potowai/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Potowai/Potowai/output/github-snake-dark.svg" width="100%" />
-  </picture>
+
+| Project | Role | Contribution |
+| :--- | :--- | :--- |
+| **[NVAccess/NVDA](https://github.com/nvaccess/nvda)** | Participant | Technical contribution & issue resolution |
+| **[Atelier Fiolleau](https://atelier-fiolleau.fr)** | Creator | FullStack production website with CI/CD & Playwright |
+| **[PokemonDLE](https://github.com/Potowai/PokemonDLE)** | Creator | Polished Pokémon Wordle clone with French localization |
+
 </div>
 
 ---
