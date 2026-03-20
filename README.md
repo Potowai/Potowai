@@ -43,7 +43,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Alexis Sciolo
+name: Alexis Fiolleau
 aka: Potowai
 location: Nantes, France 🇫🇷
 role: FullStack Developer
