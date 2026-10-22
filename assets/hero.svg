@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Alexis Fiolleau - Full-Stack Developer, Nantes, France">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <radialGradient id="glow" gradientUnits="userSpaceOnUse" cx="1150" cy="10" r="400">
+      <stop offset="0" stop-color="#6F3BE4" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#6F3BE4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6F3BE4"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#30363d" opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="72" y="128" font-size="66" font-weight="700" fill="#f0f6fc" letter-spacing="-1.5">Alexis Fiolleau</text>
+
+    <rect x="72" y="156" width="54" height="4" rx="2" fill="url(#accent)"/>
+    <text x="142" y="171" font-size="28" font-weight="600" fill="#b79cff">Full-Stack Developer</text>
+
+    <text x="72" y="222" font-size="20" fill="#8b949e" font-weight="400">Nantes, France</text>
+    <circle cx="212" cy="215" r="3.5" fill="#6F3BE4"/>
+    <text x="230" y="222" font-size="20" fill="#8b949e">Freelance &amp; agency founder</text>
+  </g>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="17" fill="#6e7681" text-anchor="end">
+    <text x="1128" y="128">next.js</text>
+    <text x="1128" y="156">typescript</text>
+    <text x="1128" y="184">kotlin</text>
+    <text x="1128" y="212">swift</text>
+    <text x="1128" y="240">python</text>
+  </g>
+
+  <text x="1128" y="52" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#484f58" text-anchor="end">github.com/Potowai</text>
+</svg>

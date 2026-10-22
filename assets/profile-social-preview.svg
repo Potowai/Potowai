@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Alexis Fiolleau - Full-Stack Developer, Nantes, France">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <radialGradient id="glow" gradientUnits="userSpaceOnUse" cx="1230" cy="0" r="520">
+      <stop offset="0" stop-color="#6F3BE4" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#6F3BE4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6F3BE4"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#30363d" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#dots)"/>
+  <rect width="1280" height="640" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1280" height="6" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="88" y="250" font-size="88" font-weight="700" fill="#f0f6fc" letter-spacing="-2">Alexis Fiolleau</text>
+
+    <rect x="88" y="290" width="70" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="176" y="310" font-size="36" font-weight="600" fill="#b79cff">Full-Stack Developer</text>
+
+    <text x="88" y="382" font-size="28" fill="#8b949e">Nantes, France</text>
+    <text x="88" y="428" font-size="24" fill="#6e7681">Freelance &amp; agency founder - sites web, apps mobiles, automatisations</text>
+
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="22" fill="#8b949e">
+      <text x="88" y="516">next.js  typescript  kotlin  swift  python</text>
+    </g>
+  </g>
+
+  <text x="1192" y="118" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="22" fill="#484f58" text-anchor="end">github.com/Potowai</text>
+</svg>
