@@ -42,25 +42,25 @@ Concrètement, ce que j'apporte :
 <table>
   <tr>
     <td width="33.33%" valign="top">
-      <b>◆ Nervure</b><br/>
-      <sub>Agence web &amp; développement — Nantes</sub><br/><br/>
-      Site vitrine + outil de devis interactif : checkout Stripe, génération de PDF de devis, envoi d'emails transactionnels, version FR/EN.<br/><br/>
-      <code>Next.js 16</code> <code>TypeScript</code> <code>Stripe</code> <code>Resend</code> <code>pdf-lib</code><br/><br/>
-      <a href="https://nervure.agency">Site en ligne</a> · <a href="https://github.com/Potowai/nervure">Code</a>
-    </td>
-    <td width="33.33%" valign="top">
-      <b>🖥️ Atelier Fiolleau</b><br/>
-      <sub>Dépannage informatique — Nantes</sub><br/><br/>
-      Site vitrine de 46 pages statiques, SEO local sur 8 quartiers de Nantes, Schema.org, sitemap, CI/CD Playwright.<br/><br/>
-      <code>Next.js</code> <code>Tailwind</code> <code>Prisma</code> <code>GitHub Actions</code><br/><br/>
-      <a href="https://atelier-fiolleau.fr">Site en ligne</a> · <a href="https://github.com/Potowai/atelier-fiolleau">Code</a>
-    </td>
-    <td width="33.33%" valign="top">
       <b>🩺 Psychomotricité Nantes</b><br/>
       <sub>Site vitrine &amp; ressource — refonte WordPress</sub><br/><br/>
       SEO + GEO, accessibilité soignée, multilingue, sans cookie ni traceur. Pensé d'abord pour que les gens contactent.<br/><br/>
       <code>Next.js 16</code> <code>React 19</code> <code>Tailwind v4</code> <code>JSON-LD</code><br/><br/>
       <a href="https://psychomotricite-nantes.vercel.app">Site en ligne</a> · <a href="https://github.com/Potowai/psychomotricite-nantes">Code</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <b>🖥️ Atelier Fiolleau</b><br/>
+      <sub>Dépannage informatique — Nantes</sub><br/><br/>
+      Site vitrine de 46 pages statiques, SEO local sur 8 quartiers de Nantes, Schema.org, sitemap, CI/CD Playwright. Version publique enrichie : 3D, Mapbox, animations.<br/><br/>
+      <code>Next.js</code> <code>React Three Fiber</code> <code>Mapbox</code> <code>Tailwind</code><br/><br/>
+      <a href="https://atelier-fiolleau.fr">Site en ligne</a> · <a href="https://github.com/Potowai/atelier-fiolleau-web-boost">Code</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <b>🎨 Portfolio</b><br/>
+      <sub>Expérience interactive — Bento Grid &amp; WebGL</sub><br/><br/>
+      Portfolio en grille Bento avec scène WebGL, transitions et animations. Les projets s'y explorent au scroll, sans friction.<br/><br/>
+      <code>Next.js 15</code> <code>React Three Fiber</code> <code>Three.js</code> <code>Tailwind</code><br/><br/>
+      <a href="https://alexisf.vercel.app">Site en ligne</a> · <a href="https://github.com/Potowai/portfolio">Code</a>
     </td>
   </tr>
   <tr>
@@ -144,19 +144,20 @@ Concrètement, ce que j'apporte :
 
 | Projet | Description |
 | :--- | :--- |
-| **[dropbot](https://github.com/Potowai/dropbot)** | SaaS de chatbots exportables en composant React ou en widget HTML/CSS/JS. Proxy serveur : les clés d'API ne quittent jamais le serveur. |
-| **[gims-ticket-monitor](https://github.com/Potowai/gims-ticket-monitor)** | Surveillance de l'ouverture des billets pour une date de concert, avec page officielle + Ticketmaster et alertes. |
-| **[PackClair DE](https://github.com/Potowai/packclair-de)** | PWA *local-first* de déclaration d'emballage LUCID : confidentialité et automatisation métier avant tout. |
-| **[GiftRadar](https://github.com/Potowai/giftradar)** | Radar de concours PWA installable, flux réindexé deux fois par jour par GitHub Actions, suivi local des participations. |
-| **[Pet Portraits](https://github.com/Potowai/pet-portraits)** | Portraits d'animaux générés par IA, 9 styles artistiques, rendu en quelques secondes. |
-| **[Prospect Finder](https://github.com/Potowai/prospect-finder)** | Scraping Google Maps et génération automatique de landing pages personnalisées, export SQLite dédupliqué. |
+| **[RateBench](https://github.com/Potowai/RateBench)** | Application mobile-first pour répertorier, noter et photographier les bancs publics et spots de repos remarquables. Android (Kotlin) + PWA + Supabase. |
 | **[ETL Open Food Facts](https://github.com/Potowai/etl-off)** | Import de ~13 000 produits Open Food Facts en base H2, partitionnement parallèle, API REST de consultation. Java 21 + virtual threads. |
+| **[AI Benchmark & Price Explorer](https://github.com/Potowai/improved-system)** | Compare les Elo de Chatbot Arena et les prix d'API pour plus de 110 LLM, avec backend SQLite et API REST Flask. |
+| **[GiftRadar](https://github.com/Potowai/giftradar)** | Radar de concours PWA installable, flux réindexé deux fois par jour par GitHub Actions, suivi local des participations. |
+| **[PackClair DE](https://github.com/Potowai/packclair-de)** | PWA *local-first* de déclaration d'emballage LUCID : confidentialité et automatisation métier avant tout. |
+| **[Prospect Finder](https://github.com/Potowai/prospect-finder)** | Scraping Google Maps et génération automatique de landing pages personnalisées, export SQLite dédupliqué. |
 | **[Cat Years](https://github.com/Potowai/cat-years)** | L'âge réel de votre chat en années humaines, calculé avec une rigueur très scientifique. |
 | **[PokemonDLE](https://github.com/Potowai/PokemonDLE)** | Wordle Pokémon : recherche floue, navigation clavier, curseur flottant, localisation française. |
+| **[Neon Atlas](https://github.com/Potowai/NeoGuessr)** | Jeu de devinette géographique façon arcade : image satellite, indices, carte néon et points à marquer. |
 | **[Traffic Light Widget](https://github.com/Potowai/traffic-light-widget)** | Widget Windows 11 qui transforme l'activité de votre agent de code en feu tricolore. Sans texte, sans bruit. |
-| **[Fête de départ — NZ](https://github.com/Potowai/custom-invitation-nz-app)** | Invitations en ligne avec lien personnel par invité, confirmation de présence et espace organisateur protégé. |
+| **[Home Dashboard](https://github.com/Potowai/home-dashboard)** | Tableau de bord pour piloter son infrastructure personnelle : serveur Minecraft, métriques système, accès centralisé. |
 | **[Ansible Load Balancer](https://github.com/Potowai/ansible-loadbalancer-project)** | Configuration Ansible de load balancing, idempotente et versionnable. |
 | **[Sépolia Voting](https://github.com/Potowai/sepolia-testnet-voting-system)** | Système de vote on-chain en Solidity, déployé sur le testnet Sépolia. |
+| **[Personal Media Server](https://github.com/Potowai/Personal-Media-Server)** | Guide complet pour monter son serveur média personnel auto-hébergé, streaming et blocage de pubs. |
 
 ---
 
