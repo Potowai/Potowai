@@ -96,10 +96,10 @@ Concrètement, ce que j'apporte :
 
 **Langages** — TypeScript · JavaScript · Python · Kotlin · Swift · Java · SQL (PostgreSQL) · Shell · Rust · HTML/CSS
 
-**Front-end** — Next.js · React · Tailwind CSS · Astro · Vue · React Three Fiber
-**Back-end & données** — Node.js · Bun · Prisma · PostgreSQL · PL/pgSQL · Python
-**Mobile & desktop** — Kotlin (Android) · Swift (iOS/macOS) · Tauri · Electron · Tkinter
-**Outils** — Git · GitHub Actions · Docker · Vercel · Linux · Playwright · Figma
+**Front-end** — Next.js · React · Tailwind CSS · Astro · Vue · React Three Fiber  
+**Back-end & données** — Node.js · Bun · Prisma · PostgreSQL · PL/pgSQL · Python  
+**Mobile & desktop** — Kotlin (Android) · Swift (iOS/macOS) · Tauri · Electron · Tkinter  
+**Outils** — Git · GitHub Actions · Docker · Vercel · Linux · Playwright
 
 <div align="center">
 
